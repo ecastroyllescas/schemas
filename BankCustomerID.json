@@ -2,7 +2,8 @@
     "$metadata": {
         "type": "BankCustomerID",
         "uris": {
-            "jsonLdContext": "ipfs://QmYc28GChHgz8XJGtx9nK1F1tasLb57oyEgcL96ooAGDW9"
+            "jsonLdContext": "https://raw.githubusercontent.com/ecastroyllescas/schemas/refs/heads/main/BankCustomerID.jsonld"
+            "jsonSchema": "https://raw.githubusercontent.com/ecastroyllescas/schemas/refs/heads/main/BankCustomerID.json"
         },
         "version": "1.1"
     },
