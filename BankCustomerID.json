@@ -3,7 +3,6 @@
         "type": "BankCustomerID",
         "uris": {
             "jsonLdContext": "https://raw.githubusercontent.com/ecastroyllescas/schemas/refs/heads/main/BankCustomerID.jsonld"
-            "jsonSchema": "https://raw.githubusercontent.com/ecastroyllescas/schemas/refs/heads/main/BankCustomerID.json"
         },
         "version": "1.1"
     },
