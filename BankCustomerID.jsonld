@@ -1,0 +1,31 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "BankCustomerID": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:66fcf4e5-7b7e-4aa0-8e30-dd6401886f37#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "Name": {
+                        "@id": "polygon-vocab:Name",
+                        "@type": "xsd:string"
+                    },
+                    "ID_number": {
+                        "@id": "polygon-vocab:ID_number",
+                        "@type": "xsd:double"
+                    },
+                    "DOB": {
+                        "@id": "polygon-vocab:DOB",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:4bd6b044-51c0-4d71-a75a-683c86f8605a"
+            }
+        }
+    ]
+}
